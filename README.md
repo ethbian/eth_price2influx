@@ -26,7 +26,4 @@ A python script to get Ethereum price in USD, EUR, BTC and send them to InfluxDB
     1576709992666340096 0.01829033 119.41 132.74
     1576709973784369920 0.01829033 119.41 132.74
 
-## use case
-Here's a [TODO screenshot](https://ethbian.org/images/TODO) of Grafana dashboard using the provided data.  
-
 Pull requests are more than welcome if you're fixing something
